@@ -1,3 +1,4 @@
 # Project
-git commit -m ""
-git push
+-git add src
+-git commit -m ""
+-git push
