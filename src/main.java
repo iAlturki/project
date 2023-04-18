@@ -1,5 +1,5 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("wake up!!!");
+        System.out.println("one piece is your uncle");
     }
 }
